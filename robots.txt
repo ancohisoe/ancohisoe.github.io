@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ancohisoe.github.io/sitemap
+Sitemap: https://ancohisoe.github.io/app/sitemap
+Sitemap: https://ancohisoe.github.io/assets/sitemap
+Sitemap: https://ancohisoe.github.io/css/sitemap
+Sitemap: https://ancohisoe.github.io/includes/sitemap
+Sitemap: https://ancohisoe.github.io/item/sitemap
+Sitemap: https://ancohisoe.github.io/src/sitemap
